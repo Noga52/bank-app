@@ -1,4 +1,3 @@
-# main.py
 import tkinter as tk
 from tkinter import messagebox, ttk
 from auth import authenticate_user, register_user

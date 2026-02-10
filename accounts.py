@@ -1,4 +1,3 @@
-# accounts.py
 import pyodbc
 from config import DB_CONFIG
 import random

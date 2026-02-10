@@ -1,4 +1,3 @@
-# admin_panel.py
 import pyodbc
 from config import DB_CONFIG
 
